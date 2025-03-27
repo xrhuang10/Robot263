@@ -45,10 +45,12 @@ def phi(x, y):
     
     return phi1() + phi2()
 
-x = float(input("Enter x: "))
-y = float(input("Enter y: "))
 
-print("Theta = " + str(theta(x, y)) + " degrees")
-print("Phi = " + str(phi(x, y)) + " degrees")
+while True:
+    x = float(input("Enter x: "))
+    y = float(input("Enter y: "))
+    print("Theta = " + str(theta(x, y)) + " degrees")
+    print("Phi = " + str(phi(x, y)) + " degrees")
+    print(" ")
 
 
