@@ -1,6 +1,7 @@
 #X is the shortest distance from the gripper to metal bar
 #Y is the distance from the gripper to the phi motor parallel to the metal bar
 
+#ALL MEASURES ARE GIVEN IN MM
 #l1 is the length of the bar attached to the theta motor
 #l2 is the length of the bar connecting l1 tip to the gripper
 #l3 is the length of l2 but cut off where it meets l4
