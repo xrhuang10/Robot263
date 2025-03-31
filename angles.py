@@ -61,7 +61,7 @@ while True:
     x = float(input("Enter x: "))
     y = float(input("Enter y: "))
     print("Theta = " + str(theta(x, y)) + " degrees")
-    print("Phi = " + str(180 - phi(x, y)) + " degrees")
+    print("Phi = " + str(phi(x, y)) + " degrees")
     print(" ")
 
 
